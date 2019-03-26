@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab2.dir/main.cpp.o CMakeFiles/lab2.dir/Point.cpp.o CMakeFiles/lab2.dir/Matrix.cpp.o  -o lab2 

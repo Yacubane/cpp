@@ -1,0 +1,3 @@
+/home/jakubik/Studia/cpp/lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jakubik/Studia/cpp/lab2/cmake-build-debug/CMakeFiles/lab2_real.dir
+/home/jakubik/Studia/cpp/lab2/cmake-build-debug/CMakeFiles/edit_cache.dir

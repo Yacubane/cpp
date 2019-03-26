@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jakubik/Studia/cpp/lab1/Data.cpp
+iostream
+-
+Data.h
+/home/jakubik/Studia/cpp/lab1/Data.h
+
+/home/jakubik/Studia/cpp/lab1/Data.h
+
+/home/jakubik/Studia/cpp/lab1/main.cpp
+iostream
+-
+sstream
+-
+cmath
+-
+iomanip
+-
+

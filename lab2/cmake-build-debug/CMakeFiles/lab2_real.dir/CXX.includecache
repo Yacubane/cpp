@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jakubik/Studia/cpp/lab2/Objects.cpp
+Objects.h
+/home/jakubik/Studia/cpp/lab2/Objects.h
+iomanip
+-
+
+/home/jakubik/Studia/cpp/lab2/Objects.h
+iostream
+-
+
+/home/jakubik/Studia/cpp/lab2/main.cpp
+iostream
+-
+Objects.h
+/home/jakubik/Studia/cpp/lab2/Objects.h
+
