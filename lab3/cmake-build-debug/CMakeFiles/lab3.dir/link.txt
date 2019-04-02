@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab3.dir/main.cpp.o CMakeFiles/lab3.dir/Pixel.cpp.o CMakeFiles/lab3.dir/Polygon.cpp.o  -o lab3 

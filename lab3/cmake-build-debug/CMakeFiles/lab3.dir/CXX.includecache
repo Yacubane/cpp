@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jakubik/Studia/cpp/lab3/Pixel.h
+
+/home/jakubik/Studia/cpp/lab3/Polygon.cpp
+stdexcept
+-
+Polygon.h
+/home/jakubik/Studia/cpp/lab3/Polygon.h
+
+/home/jakubik/Studia/cpp/lab3/Polygon.h
+Pixel.h
+/home/jakubik/Studia/cpp/lab3/Pixel.h
+

@@ -16,6 +16,7 @@ class Group {
 public:
     Group(int size = 20);
     Group(const Group &from);
+
     ~Group();
 
     Group &operator=(const Group &group);
