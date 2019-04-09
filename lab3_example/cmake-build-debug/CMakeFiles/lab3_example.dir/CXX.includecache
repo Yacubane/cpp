@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jakubik/Studia/cpp/lab3_example/Group.h
+Person.h
+/home/jakubik/Studia/cpp/lab3_example/Person.h
+
+/home/jakubik/Studia/cpp/lab3_example/Person.h
+string
+-
+
+/home/jakubik/Studia/cpp/lab3_example/main.cpp
+iostream
+-
+Group.h
+/home/jakubik/Studia/cpp/lab3_example/Group.h
+

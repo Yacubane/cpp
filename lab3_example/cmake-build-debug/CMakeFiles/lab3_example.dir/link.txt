@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab3_example.dir/main.cpp.o CMakeFiles/lab3_example.dir/Person.cpp.o CMakeFiles/lab3_example.dir/Group.cpp.o  -o lab3_example 

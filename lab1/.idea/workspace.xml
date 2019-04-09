@@ -15,7 +15,33 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1852b5b8-6c89-4cb9-8388-f444015f632e" name="Default Changelist" comment="" />
+    <list default="true" id="1852b5b8-6c89-4cb9-8388-f444015f632e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/Commodity.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/Commodity.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/CommodityWithBail.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/CommodityWithBail.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/Date.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/Date.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/Product.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/Product.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/Service.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/Service.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_example/Osoba.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_example/Osoba.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_example/Pojazd.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_example/Pojazd.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_example/PojazdOsobowy.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_example/PojazdOsobowy.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_example/PojazdSilnikowy.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_example/PojazdSilnikowy.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_example/Rower.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_example/Rower.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="882">
+              <caret line="52" column="12" lean-forward="true" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -103,6 +129,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -114,16 +143,18 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="30" />
     <option name="width" value="1920" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,12 +166,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
@@ -176,16 +206,18 @@
       <workItem from="1553539966140" duration="328000" />
       <workItem from="1553540340020" duration="607000" />
       <workItem from="1553620803941" duration="67000" />
+      <workItem from="1554802178961" duration="963000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15844000" />
+    <option name="totallyTimeSpent" value="16807000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="30" width="1920" height="1050" extended-state="6" />
+    <frame x="0" y="-33" width="1920" height="1113" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18776824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19045064" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -264,8 +296,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="882">
+          <caret line="52" column="12" lean-forward="true" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab4_example.dir/main.cpp.o CMakeFiles/lab4_example.dir/Osoba.cpp.o CMakeFiles/lab4_example.dir/Pojazd.cpp.o CMakeFiles/lab4_example.dir/Rower.cpp.o CMakeFiles/lab4_example.dir/PojazdSilnikowy.cpp.o CMakeFiles/lab4_example.dir/PojazdOsobowy.cpp.o  -o lab4_example 
