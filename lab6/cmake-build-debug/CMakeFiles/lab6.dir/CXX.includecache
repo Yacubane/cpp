@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jakubdybczak/Studies/cpp/lab6/Person.h
+string
+-
+iostream
+-
+
+/home/jakubdybczak/Studies/cpp/lab6/main.cpp
+iostream
+-
+set
+-
+map
+-
+unordered_map
+-
+vector
+-
+algorithm
+-
+Person.h
+/home/jakubdybczak/Studies/cpp/lab6/Person.h
+

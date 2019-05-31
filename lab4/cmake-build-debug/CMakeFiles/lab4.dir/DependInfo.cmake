@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/jakubik/Studia/cpp/lab4/Commodity.cpp" "/home/jakubik/Studia/cpp/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Commodity.cpp.o"
-  "/home/jakubik/Studia/cpp/lab4/CommodityWithBail.cpp" "/home/jakubik/Studia/cpp/lab4/cmake-build-debug/CMakeFiles/lab4.dir/CommodityWithBail.cpp.o"
-  "/home/jakubik/Studia/cpp/lab4/Date.cpp" "/home/jakubik/Studia/cpp/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Date.cpp.o"
-  "/home/jakubik/Studia/cpp/lab4/Product.cpp" "/home/jakubik/Studia/cpp/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Product.cpp.o"
-  "/home/jakubik/Studia/cpp/lab4/Service.cpp" "/home/jakubik/Studia/cpp/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Service.cpp.o"
-  "/home/jakubik/Studia/cpp/lab4/main.cpp" "/home/jakubik/Studia/cpp/lab4/cmake-build-debug/CMakeFiles/lab4.dir/main.cpp.o"
+  "/home/jakubdybczak/Studies/cpp/lab4/Commodity.cpp" "/home/jakubdybczak/Studies/cpp/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Commodity.cpp.o"
+  "/home/jakubdybczak/Studies/cpp/lab4/CommodityWithBail.cpp" "/home/jakubdybczak/Studies/cpp/lab4/cmake-build-debug/CMakeFiles/lab4.dir/CommodityWithBail.cpp.o"
+  "/home/jakubdybczak/Studies/cpp/lab4/Date.cpp" "/home/jakubdybczak/Studies/cpp/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Date.cpp.o"
+  "/home/jakubdybczak/Studies/cpp/lab4/Product.cpp" "/home/jakubdybczak/Studies/cpp/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Product.cpp.o"
+  "/home/jakubdybczak/Studies/cpp/lab4/Service.cpp" "/home/jakubdybczak/Studies/cpp/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Service.cpp.o"
+  "/home/jakubdybczak/Studies/cpp/lab4/main.cpp" "/home/jakubdybczak/Studies/cpp/lab4/cmake-build-debug/CMakeFiles/lab4.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/jakubik/Studia/cpp/lab3/Pixel.cpp" "/home/jakubik/Studia/cpp/lab3/cmake-build-debug/CMakeFiles/lab3.dir/Pixel.cpp.o"
-  "/home/jakubik/Studia/cpp/lab3/Polygon.cpp" "/home/jakubik/Studia/cpp/lab3/cmake-build-debug/CMakeFiles/lab3.dir/Polygon.cpp.o"
-  "/home/jakubik/Studia/cpp/lab3/main.cpp" "/home/jakubik/Studia/cpp/lab3/cmake-build-debug/CMakeFiles/lab3.dir/main.cpp.o"
+  "/home/jakubdybczak/Studies/cpp/lab3/Pixel.cpp" "/home/jakubdybczak/Studies/cpp/lab3/cmake-build-debug/CMakeFiles/lab3.dir/Pixel.cpp.o"
+  "/home/jakubdybczak/Studies/cpp/lab3/Polygon.cpp" "/home/jakubdybczak/Studies/cpp/lab3/cmake-build-debug/CMakeFiles/lab3.dir/Polygon.cpp.o"
+  "/home/jakubdybczak/Studies/cpp/lab3/main.cpp" "/home/jakubdybczak/Studies/cpp/lab3/cmake-build-debug/CMakeFiles/lab3.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

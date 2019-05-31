@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jakubdybczak/Studies/cpp/lab6_example/Tree.h
+string
+-
+iostream
+-
+TreeKey.h
+/home/jakubdybczak/Studies/cpp/lab6_example/TreeKey.h
+
+/home/jakubdybczak/Studies/cpp/lab6_example/TreeKey.h
+string
+-
+iostream
+-
+
+/home/jakubdybczak/Studies/cpp/lab6_example/main.cpp
+iostream
+-
+set
+-
+map
+-
+unordered_map
+-
+vector
+-
+algorithm
+-
+Tree.h
+/home/jakubdybczak/Studies/cpp/lab6_example/Tree.h
+TreeKey.h
+/home/jakubdybczak/Studies/cpp/lab6_example/TreeKey.h
+

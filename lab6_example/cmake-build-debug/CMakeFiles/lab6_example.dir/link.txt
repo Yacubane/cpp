@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab6_example.dir/main.cpp.o CMakeFiles/lab6_example.dir/Tree.cpp.o CMakeFiles/lab6_example.dir/TreeKey.cpp.o  -o lab6_example 

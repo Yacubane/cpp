@@ -6,21 +6,37 @@
 
 #IncludeRegexTransform: 
 
-/home/jakubik/Studia/cpp/lab4/Commodity.h
-Date.h
-/home/jakubik/Studia/cpp/lab4/Date.h
-Product.h
-/home/jakubik/Studia/cpp/lab4/Product.h
-
-/home/jakubik/Studia/cpp/lab4/CommodityWithBail.h
+/home/jakubdybczak/Studies/cpp/lab4/Commodity.cpp
 Commodity.h
-/home/jakubik/Studia/cpp/lab4/Commodity.h
+/home/jakubdybczak/Studies/cpp/lab4/Commodity.h
 
-/home/jakubik/Studia/cpp/lab4/Date.h
+/home/jakubdybczak/Studies/cpp/lab4/Commodity.h
+Date.h
+/home/jakubdybczak/Studies/cpp/lab4/Date.h
+Product.h
+/home/jakubdybczak/Studies/cpp/lab4/Product.h
+
+/home/jakubdybczak/Studies/cpp/lab4/CommodityWithBail.cpp
+CommodityWithBail.h
+/home/jakubdybczak/Studies/cpp/lab4/CommodityWithBail.h
+
+/home/jakubdybczak/Studies/cpp/lab4/CommodityWithBail.h
+Commodity.h
+/home/jakubdybczak/Studies/cpp/lab4/Commodity.h
+
+/home/jakubdybczak/Studies/cpp/lab4/Date.cpp
+Date.h
+/home/jakubdybczak/Studies/cpp/lab4/Date.h
+
+/home/jakubdybczak/Studies/cpp/lab4/Date.h
 iostream
 -
 
-/home/jakubik/Studia/cpp/lab4/Product.h
+/home/jakubdybczak/Studies/cpp/lab4/Product.cpp
+Product.h
+/home/jakubdybczak/Studies/cpp/lab4/Product.h
+
+/home/jakubdybczak/Studies/cpp/lab4/Product.h
 utility
 -
 string
@@ -28,25 +44,29 @@ string
 sstream
 -
 Date.h
-/home/jakubik/Studia/cpp/lab4/Date.h
+/home/jakubdybczak/Studies/cpp/lab4/Date.h
 
-/home/jakubik/Studia/cpp/lab4/Service.h
+/home/jakubdybczak/Studies/cpp/lab4/Service.cpp
+Service.h
+/home/jakubdybczak/Studies/cpp/lab4/Service.h
+
+/home/jakubdybczak/Studies/cpp/lab4/Service.h
 utility
 -
 Product.h
-/home/jakubik/Studia/cpp/lab4/Product.h
+/home/jakubdybczak/Studies/cpp/lab4/Product.h
 
-/home/jakubik/Studia/cpp/lab4/main.cpp
+/home/jakubdybczak/Studies/cpp/lab4/main.cpp
 iostream
 -
 Date.h
-/home/jakubik/Studia/cpp/lab4/Date.h
+/home/jakubdybczak/Studies/cpp/lab4/Date.h
 Product.h
-/home/jakubik/Studia/cpp/lab4/Product.h
+/home/jakubdybczak/Studies/cpp/lab4/Product.h
 Commodity.h
-/home/jakubik/Studia/cpp/lab4/Commodity.h
+/home/jakubdybczak/Studies/cpp/lab4/Commodity.h
 CommodityWithBail.h
-/home/jakubik/Studia/cpp/lab4/CommodityWithBail.h
+/home/jakubdybczak/Studies/cpp/lab4/CommodityWithBail.h
 Service.h
-/home/jakubik/Studia/cpp/lab4/Service.h
+/home/jakubdybczak/Studies/cpp/lab4/Service.h
 
